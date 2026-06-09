@@ -50,21 +50,16 @@ I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in
 ### 💰 SpendWise – Expense Tracker
 
 **Tech Stack:** Java, Spring Boot, React.js, Tailwind CSS, Chart.js, PostgreSQL
-
-* Developed a full-stack Expense Tracker application.
-* Implemented CRUD operations and analytics dashboard.
-* Integrated REST APIs and cloud database connectivity.
-* Designed a responsive modern UI.
+* Projecct Demo:https://spendwise-dk.vercel.app/login.
 
 ### 🏫 College Fine Management Website
 
 **Tech Stack:** HTML, CSS, JavaScript, Node.js
-
-
+* Projecct Demo:(https://ohitzdhanush-college-fine-managemen-three.vercel.app/).
+  
 ## 🛠️ Technical Skills
 
 ### Languages
-
 * Java
 * C
 * JavaScript
@@ -72,18 +67,15 @@ I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in
 * HTML/CSS
 
 ### Frameworks & Libraries
-
 * Spring Boot
 * React.js
 * Node.js
 
 ### Databases
-
 * PostgreSQL
 * MySQL
 
 ### Developer Tools
-
 * Git
 * GitHub
 * VS Code
@@ -91,34 +83,5 @@ I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in
 * Postman
 * Vercel
 * Render
-
 ---
-
-## 📚 Relevant Coursework
-
-* Data Structures and Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Software Engineering
-* Web Technologies
-* Internet of Things (IoT)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohitzdhanush&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohitzdhanush&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohitzdhanush&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-
 ### ⭐ Code • Learn • Build • Repeat ⭐
