@@ -1,13 +1,10 @@
 # Hi 👋, I'm Dhanush Kumar
 
 ### Java Full Stack Developer from India 🇮🇳
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ohitzdhanush&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 ---
-
 ## 📞 Contact Information
 
 * 📧 Email: **[mdhanush961@gmail.com](mailto:mdhanush961@gmail.com)**
@@ -17,7 +14,6 @@
 * 📍 Location: Bengaluru, Karnataka, India
 
 ---
-
 ## 👨‍💻 About Me
 
 I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in Computer Science Engineering. I enjoy building scalable applications using modern technologies and continuously improving my problem-solving skills.
@@ -30,7 +26,6 @@ I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in
 * ⚡ Fun Fact: I enjoy turning ideas into full-stack applications.
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 💰 SpendWise – Expense Tracker
@@ -44,7 +39,6 @@ I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in
 * Projecct Demo:(https://ohitzdhanush-college-fine-managemen-three.vercel.app/).
   
 ## Languages and Tools:
-
 ### Languages
 
 <p align="left">
