@@ -60,10 +60,6 @@ I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in
 
 **Tech Stack:** HTML, CSS, JavaScript, Node.js
 
-* Developed a web-based system to manage student fine records.
-* Implemented responsive user interfaces and validations.
-* Improved record management for college administration.
-
 
 ## 🛠️ Technical Skills
 
@@ -115,33 +111,14 @@ I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ohitzdhanush&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohitzdhanush&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohitzdhanush&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Leadership Experience
-
-### Event Coordinator – Trentech 2025 Symposium
-
-* Organized the non-technical event "Quiz".
-* Coordinated event planning and execution.
-* Managed participants and schedules effectively.
-
----
-
-## 🤝 Connect With Me
-
-* GitHub: https://github.com/ohitzdhanush
-* LinkedIn: https://www.linkedin.com/in/dhanush-kumar-m-a529002a2/
-* Email: [mdhanush961@gmail.com](mailto:mdhanush961@gmail.com)
-
----
 
 ### ⭐ Code • Learn • Build • Repeat ⭐
