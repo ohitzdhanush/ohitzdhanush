@@ -31,20 +31,6 @@ I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in
 
 ---
 
-## 💼 Internship Experience
-
-### Java Full Stack Developer Intern
-
-**Besant Technologies** | Bengaluru, Karnataka
-**Feb 2026 – Present**
-
-* Learning Java, Spring Boot, and React.js development.
-* Working with REST APIs and database integration.
-* Developing full-stack mini projects using MySQL.
-* Practicing Git and deployment workflows.
-
----
-
 ## 🚀 Featured Projects
 
 ### 💰 SpendWise – Expense Tracker
@@ -57,31 +43,30 @@ I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in
 **Tech Stack:** HTML, CSS, JavaScript, Node.js
 * Projecct Demo:(https://ohitzdhanush-college-fine-managemen-three.vercel.app/).
   
-## 🛠️ Technical Skills
+## Languages and Tools:
 
 ### Languages
-* Java
-* C
-* JavaScript
-* SQL
-* HTML/CSS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
+</p>
 
 ### Frameworks & Libraries
-* Spring Boot
-* React.js
-* Node.js
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
+</p>
 
 ### Databases
-* PostgreSQL
-* MySQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
 ### Developer Tools
-* Git
-* GitHub
-* VS Code
-* IntelliJ IDEA
-* Postman
-* Vercel
-* Render
----
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel" />
+</p>
+
 ### ⭐ Code • Learn • Build • Repeat ⭐
