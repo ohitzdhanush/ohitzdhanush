@@ -18,13 +18,7 @@
 
 I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in Computer Science Engineering. I enjoy building scalable applications using modern technologies and continuously improving my problem-solving skills.
 
-* 🎓 B.E. Computer Science Engineering (2022 – 2026)
-* 🏫 M.P. Nachimuthu M. Jaganathan Engineering College
-* 💼 Java Full Stack Developer Intern at Besant Technologies
-* 🌱 Learning Java, Spring Boot, React.js, REST APIs, and Cloud Deployment
-* 💬 Ask me about Java, Spring Boot, React.js, Node.js, SQL, and GitHub
 * ⚡ Fun Fact: I enjoy turning ideas into full-stack applications.
-
 ---
 ## 🚀 Featured Projects
 
