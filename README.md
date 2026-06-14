@@ -9,25 +9,21 @@
 
 * 📧 Email: **[mdhanush961@gmail.com](mailto:mdhanush961@gmail.com)**
 * 📱 Phone: **+91 6374611394**
-* 💻 GitHub: **https://github.com/ohitzdhanush**
 * 🔗 LinkedIn: **https://www.linkedin.com/in/dhanush-kumar-m-a529002a2/**
 * 📍 Location: Bengaluru, Karnataka, India
 
 ---
 * ⚡ Fun Fact: I enjoy turning ideas into full-stack applications.
 ---
-## 🚀 Featured Projects
+##  Projects
 
 ### 💰 SpendWise – Expense Tracker
-
 **Tech Stack:** Java, Spring Boot, React.js, Tailwind CSS, Chart.js, PostgreSQL
 * Projecct Demo:https://spendwise-dk.vercel.app/login.
-
 ### 🏫 College Fine Management Website
-
 **Tech Stack:** HTML, CSS, JavaScript, Node.js
 * Projecct Demo:(https://ohitzdhanush-college-fine-managemen-three.vercel.app/).
-  
+
 ## Languages and Tools:
 ### Languages
 
