@@ -14,10 +14,6 @@
 * 📍 Location: Bengaluru, Karnataka, India
 
 ---
-## 👨‍💻 About Me
-
-I am a passionate **Java Full Stack Developer** pursuing my Bachelor's degree in Computer Science Engineering. I enjoy building scalable applications using modern technologies and continuously improving my problem-solving skills.
-
 * ⚡ Fun Fact: I enjoy turning ideas into full-stack applications.
 ---
 ## 🚀 Featured Projects
