@@ -16,14 +16,6 @@
 ---
 * ⚡ Fun Fact: I enjoy turning ideas into full-stack applications.
 ---
-##  Projects
-
-### 💰 SpendWise – Expense Tracker
-**Tech Stack:** Java, Spring Boot, React.js, Tailwind CSS, Chart.js, PostgreSQL
-* Projecct Demo:https://spendwise-dk.vercel.app/login.
-### 🏫 College Fine Management Website
-**Tech Stack:** HTML, CSS, JavaScript, Node.js
-* Projecct Demo:(https://ohitzdhanush-college-fine-managemen-three.vercel.app/).
 
 ## Languages and Tools:
 ### Languages
