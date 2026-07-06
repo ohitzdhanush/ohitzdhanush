@@ -9,8 +9,7 @@
 
 * 📧 Email: **[mdhanush961@gmail.com](mailto:mdhanush961@gmail.com)**
 * 📱 Phone: **+91 6374611394**
-* 🔗 LinkedIn: **https://www.linkedin.com/in/dhanush-kumar-m-/**
-* 🔗 Portfolio: **(https://dhanushkumar-m-portfolio.vercel.app/)**
+* 🔗 Portfolio: **https://dhanushkumar-m-portfolio.vercel.app/**
 * 📍 Location: Bengaluru, Karnataka, India
 
 ---
